@@ -1,17 +1,14 @@
-.principal {
-    background-color: red;
-}
-
-
-p {
+h1 {
     color: red;
-}
-
-.teste {
-    color: blue;
     text-align: center;
 }
 
-#unico {
-    font-size: 40px;
+.principal {
+    color: blue;
 }
+
+
+h1.principal {
+    color: orange;
+}
+
