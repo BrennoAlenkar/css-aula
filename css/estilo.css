@@ -1,14 +1,16 @@
 h1 {
-    color: red;
+    border: 5px solid black;
+    border-radius: 10px;
     text-align: center;
 }
 
-.principal {
-    color: blue;
+.container {
+    background-color: blue;
+    height: 450px;
+    width: 700px;
+    background-image: url(/imagens/logo-cidade.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 20px;
 }
-
-
-h1.principal {
-    color: orange;
-}
-
