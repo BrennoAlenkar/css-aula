@@ -1,12 +1,17 @@
-body {
-    background-color: rgb(156, 218, 230);
+.principal {
+    background-color: red;
 }
 
-h1 {
-    color: red;
-    font-size: 40px;
-}
 
 p {
-    color: blueviolet;
+    color: red;
+}
+
+.teste {
+    color: blue;
+    text-align: center;
+}
+
+#unico {
+    font-size: 40px;
 }
