@@ -1,16 +1,7 @@
-h1 {
-    border: 5px solid black;
-    border-radius: 10px;
-    text-align: center;
+* {
+    margin: 10px;
 }
 
-.container {
-    background-color: blue;
-    height: 450px;
-    width: 700px;
-    background-image: url(/imagens/logo-cidade.jpg);
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-    border-radius: 20px;
+h1 {
+    margin-top: 70px;
 }
