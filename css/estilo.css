@@ -1,25 +1,4 @@
-* {
-    margin: 0;
+h1, p, a{
+    border: 1px solid red;
 }
 
-h1 {
-    background-color: red;
-    padding-top: 40px;
-    height: 400px;
-    width: 400px;
-    text-align: center;
-    text-transform: uppercase;
-    text-decoration: underline;
-}
-
-.link {
-    background-color: rgb(110, 185, 187);
-    color: #fff;
-    padding: 5px 14px;
-    text-decoration: none;
-    border-radius: 5px;
-}
-
-.link:hover {
-    background-color: rgb(98, 165, 167);
-}
