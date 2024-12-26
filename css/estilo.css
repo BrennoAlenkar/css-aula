@@ -1,4 +1,48 @@
-h1, p, a{
-    border: 1px solid red;
+.container {
+    background-color: blue;
+    height: 400px;
+    width: 600px;
+
 }
 
+div {
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+}
+
+.div01 {
+    background-color: green;
+    position: relative;
+    top: 100px;
+    left: 50px;
+    z-index: 2;
+}
+
+.div02 {
+    background-color: red;
+    position: sticky;
+    top: 0;
+    
+}
+
+.div03 {
+    background-color: yellow;
+    z-index: 1;
+   
+}
+
+.whats {
+    background-color: rgb(27, 234, 27);
+    color: #fff;
+    display: inline-flex;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    position: fixed;
+    top: 80%;
+    right: 5%;
+}
