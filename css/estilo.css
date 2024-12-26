@@ -1,5 +1,8 @@
-.container {
-    background-color: blue;
-    height: 80px;
+.exemplo {
+    border: 1px solid red;
     overflow: auto;
+}
+
+.exemplo img {
+    float: left;
 }
