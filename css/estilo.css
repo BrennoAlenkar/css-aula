@@ -16,4 +16,23 @@ h1 {
         text-align: right;
     }
     
-}@
+}
+
+@media screen and (max-width: 600px) {
+    .teste2 {
+       width: 100%;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .teste2 {
+       width: 100%;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    h1 {
+        background-color: blue;
+        text-align: center;
+    }
+}
